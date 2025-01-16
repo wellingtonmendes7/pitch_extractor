@@ -1,4 +1,4 @@
-# This script was created by Wellington Mendes (UFU, 2024).
+# This script was created by Wellington Mendes (UFU, 2025).
 # It opens each TextGrid file in a directory, loads the matching sound file,
 
 # and extracts the mean pitch for labeled intervals. The results are written to a
