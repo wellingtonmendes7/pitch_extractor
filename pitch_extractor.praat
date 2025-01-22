@@ -1,14 +1,9 @@
-# This script was created by Wellington Mendes (UFU, 2025).
+# This script was created by Wellington Mendes and Guilherme Felisbino (UFU, 2025).
 # It opens each TextGrid file in a directory, loads the matching sound file,
-
 # and extracts the mean pitch for labeled intervals. The results are written to a
-
 # tab-delimited text file. It is a modified version of "duration_multiple.praat" by
-
 # Mietta Lennes (http://www.helsinki.fi/~lennes/praat-scripts/), with further
-
 # modifications by Maria Cantoni (UFMG, 2016). This script is distributed under the
-
 # GNU General Public License.
 
 form Get pitch mean from labeled segments in files
