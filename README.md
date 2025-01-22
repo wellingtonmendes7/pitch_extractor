@@ -4,12 +4,13 @@
 This script processes TextGrid files along with their corresponding sound files to extract the mean pitch of labeled intervals. The results are saved in a tab-delimited text file.
 
 ## Author and Acknowledgments
-- **Author**: Wellington Mendes (UFU, 2024) wellington.mendes@ufu.br
+- **Author #1**: Wellington Mendes (UFU, 2025) wellington.mendes@ufu.br
 - (http://www.portal.ileel.ufu.br/pessoas/docentes/wellington-araujo-mendes-junior)
 - (https://scholar.google.com/citations?user=eI4709wAAAAJ&hl=pt-BR)
+- **Author #2**: Guilherme Felisbino (UFU, 2025) guihperez6@gmail.com
 - **Based On**: 
   - "duration_multiple.praat" by Mietta Lennes (http://www.helsinki.fi/~lennes/praat-scripts/)
-  - Modified by Maria Cantoni (UFMG, 2016)
+  - "duration_extractor.praat" by Maria Cantoni (UFMG, 2016) (https://somos.ufmg.br/professor/maria-mendes-cantoni)
 - **License**: GNU General Public License
 
 ## Features
